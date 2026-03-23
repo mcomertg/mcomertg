@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Mehmet 👋
 
-<!--
-**mcomertg/mcomertg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist focused on analytics, machine learning, and data engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Build end-to-end data solutions (data preparation → modeling → insights)
+- Perform exploratory data analysis and visualization
+- Develop machine learning models (regression, classification, clustering)
+- Work with both traditional datasets and scalable data pipelines
+
+---
+
+## Featured Projects
+
+### Hospital Readmission Analytics (Lakehouse Project)
+- Built an end-to-end pipeline (Bronze → Silver → Gold) in Databricks
+- Performed EDA, clustering (K-Means), and PCA
+- Developed regression and classification models
+- Identified potential feature leakage in CMS-derived variables  
+
+View Project: https://github.com/mcomertg/cms-hospital-lakehouse
+
+---
+
+### Non-COVID Hospital Bed Utilization Prediction
+- Developed predictive models using healthcare and SDOH data  
+- Applied Ridge, Lasso, and XGBoost models  
+- Used PCA and clustering to identify regional patterns  
+- Conducted hypothesis-driven analysis for healthcare insights  
+
+View Project: https://github.com/mcomertg/non-covid-hospital-bed-utilization-sdoh
+
+---
+
+## Tech Stack
+Python • SQL • PySpark • Pandas • scikit-learn • Plotly • Databricks
+
+---
+
+## Connect
+LinkedIn: https://linkedin.com/in/mehmet-a-comert
