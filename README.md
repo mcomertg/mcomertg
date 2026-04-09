@@ -1,6 +1,6 @@
 # Hi, I'm Mehmet 👋
 
-Data Scientist focused on analytics, machine learning, and data engineering.
+Data Scientist focused on analytics, machine learning, time series forecasting and data engineering.
 
 ---
 
@@ -13,6 +13,16 @@ Data Scientist focused on analytics, machine learning, and data engineering.
 ---
 
 ## Featured Projects
+
+### Electricity Demand Forecasting (Time Series Project)
+- Built an end-to-end forecasting pipeline using ERCOT energy data from EIA API  
+- Performed time series EDA (trend, seasonality, rolling analysis)  
+- Implementing statistical and machine learning models (ARIMA, XGBoost)  
+- Designed benchmarking against real-world day-ahead forecasts  
+
+View Project: https://github.com/mcomertg/time-series-energy-forecasting
+
+---
 
 ### Hospital Readmission Analytics (Lakehouse Project)
 - Built an end-to-end pipeline (Bronze → Silver → Gold) in Databricks
